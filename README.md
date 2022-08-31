@@ -1,2 +1,1 @@
-# hw-08
-Mobile
+# goit-markup-hw-07
